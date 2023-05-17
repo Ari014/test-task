@@ -3,8 +3,8 @@ package cucumber.setUp;
 import manager.PageFactoryManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import pages.MoviePage;
 import pages.HomePage;
+import pages.MoviePage;
 
 import static io.github.bonigarcia.wdm.WebDriverManager.chromedriver;
 public class CucumberContext {
